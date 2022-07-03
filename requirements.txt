@@ -1,0 +1,14 @@
+jupyterlab
+jupyterlab-git
+
+# allows using mypy inside notebooks
+mypy
+nb-mypy
+
+# TODO: test these
+
+# https://github.com/jupyterlab/jupyterlab-github
+# jupyterlab-github
+
+# https://github.com/jupyterlab/jupyterlab-commenting
+# jupyterlab-commenting-service
