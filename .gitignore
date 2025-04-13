@@ -2,6 +2,7 @@ ntt/
 tmp/
 
 __pycache__/
+.virtual_documents/
 .ipynb_checkpoints/
 .mypy_cache/
 .venv/
